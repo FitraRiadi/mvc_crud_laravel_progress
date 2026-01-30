@@ -1,0 +1,29 @@
+a{
+    color: inherit;
+    text-decoration: none;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(229, 236, 241);
+}
+
+h1{
+    text-align: center;
+}
+
+table{
+    margin-left: 32%;
+    border:3px solid black;
+    border-radius: 10px;
+}
+
+button{
+    background-color: #db152f;
+    padding: 10px 50px;
+    border-radius: 10px;
+}
+
+button:hover{
+    background-color: #8acbdb70;
+}
